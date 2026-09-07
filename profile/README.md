@@ -1,13 +1,7 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100%">
-        <br />
-        <img src="tatallo-wordmark-white.svg" width="220" alt="Tatallo" />
-        <br /><br />
-      </td>
-    </tr>
-  </table>
+  <br />
+  <img src="tatallo-wordmark-white.svg" width="220" alt="Tatallo" />
+  <br /><br />
 
   <h3>Powered by the sky.</h3>
 
@@ -26,14 +20,6 @@
 <br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top" width="240">
-        <img src="mobile-stays.png" width="240" alt="Tatallo — mobile" />
-      </td>
-      <td align="center" valign="top" width="240">
-        <img src="mobile-map-stays.png" width="240" alt="Tatallo — map" />
-      </td>
-    </tr>
-  </table>
+  <img src="mobile-stays.png" width="240" alt="Tatallo — mobile" />
+  <img src="mobile-map-stays.png" width="240" alt="Tatallo — map" />
 </div>
